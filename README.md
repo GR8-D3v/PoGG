@@ -1,4 +1,6 @@
 # PoGG
-Participation (o) Grade Games 
+Participation (o) Grade Games
+
 Repo to test the functionality of GitHub.
+
 so far, quite satisfied!
